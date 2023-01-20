@@ -1,0 +1,35 @@
+.navbar {
+    min-height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 12px;
+    text-decoration: none;
+    color: #333;
+    font-weight: 700;
+    font-family:  sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.navbar-default {
+    background-color: #fff;
+    border: none;
+    box-shadow: none;
+    margin: 0 !important;
+}
+
+.templatemo-nav {
+    border-radius: 0;
+    width: 100%;
+    z-index: 1000;
+}
+.body {
+    color: #333;
+    font-size: 14px;
+}
+
+.nav-name {
+    color: #303030;
+}

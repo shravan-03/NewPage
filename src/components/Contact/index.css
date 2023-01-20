@@ -1,0 +1,90 @@
+.contact-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-name {
+    color: #ffffff;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.contact-details-container {
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+}
+
+.labelstyling {
+    color: #ffffff;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.styling {
+    height: 40px;
+    width: 420px;
+    margin-left: 150px;
+    border-color: #45b6fe;
+    background-color: transparent;
+    
+}
+
+.btn {
+    color: #ffffff;
+    background-color: #45b6fe;
+    height: 35px;
+    border: 0;
+    width: 420px;
+    margin-left: 150px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.name-of-address {
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+    margin-top: 35px;
+}
+
+.paraaa {
+    color: #ffffff;
+    font-family: sans-serif;
+
+}
+
+.number {
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.company-email {
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.location-pincode {
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.last-line {
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+.copy {
+    color: #ffffff;
+    text-align: center;
+}

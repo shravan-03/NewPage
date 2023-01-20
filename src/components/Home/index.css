@@ -1,0 +1,35 @@
+.bg-container {
+    background-image: url('file:///Users/shravan/Downloads/awesome1-master/images/home-bg.jpg');
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+
+.awe {
+    color: #45b6fe;
+    font-family: sans-serif;
+    font-weight: 900;
+
+}
+.paragraph {
+    color: white;
+}
+
+.button {
+    color: white;
+    background-color: transparent;
+    font-family: sans-serif;
+    border-color: white;
+    height: 60px;
+    width: 150px;
+}
+
+.heading {
+    color: white;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+}
